@@ -1,9 +1,9 @@
 # coding-kata-repo
 For practicing Test Driven Development using a simple string calculator program
 
-# TDD Kata
+# Coding Kata (TDD Kata)
 
-`TDD Kata` is a simple coding exercise developed in C# by following Test Driven Development. The Coding Kata approach is followed for the development.
+`Coding Kata` is a simple coding exercise developed in C# by following Test Driven Development. The Coding Kata approach is followed for the development.
 
 This simple exercise is designed to help programmers improve their TDD skills. The idea behind the Kata is to learn by repeating an exercise over and over again. The Katas help the programmers to learn TDD approaches quickly.
 
